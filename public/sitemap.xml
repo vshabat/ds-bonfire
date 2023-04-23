@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/docs/platform/unisender/</loc>
+  </url><url>
+    <loc>http://example.org/docs/introduction/</loc>
+  </url><url>
+    <loc>http://example.org/docs/introduction/composition/</loc>
+  </url><url>
+    <loc>http://example.org/docs/master-template/requirements/</loc>
+  </url><url>
+    <loc>http://example.org/docs/master-template/editable-blocks/banner/</loc>
+  </url><url>
+    <loc>http://example.org/docs/master-template/how-to-use/</loc>
+  </url><url>
+    <loc>http://example.org/docs/platform/credentials/</loc>
+  </url><url>
+    <loc>http://example.org/docs/platform/</loc>
+  </url><url>
+    <loc>http://example.org/docs/introduction/goal/</loc>
+  </url><url>
+    <loc>http://example.org/docs/master-template/editable-blocks/</loc>
+  </url><url>
+    <loc>http://example.org/docs/introduction/how-to-use/</loc>
+  </url><url>
+    <loc>http://example.org/docs/master-template/</loc>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/docs/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url><url>
+    <loc>http://example.org/</loc>
+  </url>
+</urlset>

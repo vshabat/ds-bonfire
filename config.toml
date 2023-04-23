@@ -1,0 +1,4 @@
+baseURL = 'https://vshabat.github.io/designsystem-bonfire/'
+languageCode = 'en-us'
+title = 'Дизайн-система для email-рассылок Bonfire'
+theme = 'hugo-book'
