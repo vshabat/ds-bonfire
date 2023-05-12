@@ -1,4 +1,5 @@
-baseURL = 'https://vshabat.github.io/ds-bonfire-web/'
+baseURLbak = 'https://vshabat.github.io/ds-bonfire-web/'
+baseURL = 'https://vshabat.github.io/'
 languageCode = 'en-us'
 title = 'Дизайн-система для email-рассылок Bonfire'
 theme = 'hugo-book'

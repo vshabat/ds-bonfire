@@ -4,24 +4,33 @@ bookFlatSection: true
 title: "Дизайн-система"
 ---
 
-# Дизайн-система
+# Добро пожаловать в email-дизайн-систему Bonfire!
 
-## Зачем это
+## Цель
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+Дизайн-система позволяет быстро и недорого делать **отличные email-рассылки**, то есть рассылки:
+- Соответствующие интересам читателей, 
+- Конверсионные, мотивирующие читателей нажать на кнопку или перейти по ссылке,
+- Позитивные, вызывающие у читателей желание открыть и следующую рассылку, и следующую после неё...,
+- Поддерживающие позиционирование Bonfire и наши ценности,
+- В нашем корпоративном стиле.
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+Дизайн-система обеспечит единообразие: все рассылки будут соответствовать этим стандартам вне зависимости от того, кто из нас их делал. 
 
-## Изучите меню...
+## Состав
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
+Дизайн-система для email-рассылок Bonfire состоит из:
+1. **Гайда** &#x2014; это тот сайт, на котором вы сейчас находитесь,
+2. **Мастер-шаблона** &#x2014; это шаблон в Stripo, из которого можно делать рассылки
+
+## С чего начать?
+
+Если вы здесь первый раз, внимательно прочитайте все страницы этого гайда, прежде чем начать делать первую рассылку. Это убережет вас от стандартных ошибок. 
+
+Когда ознакомитесь, начинайте работу над рассылкой. Консультируйтесь с гайдом по ходу работы, когда возникают вопросы. 
+
+
+## Я не из Bonfire, вы можете сделать нам дизайн-систему? 
+
+Конечно! Детали &#x2014; [здесь](https://bonfire.online/design-system/).
 

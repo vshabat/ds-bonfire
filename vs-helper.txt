@@ -1,0 +1,30 @@
+Build process:
+
+Two github repositories are involved:
+
+https://github.com/vshabat/ds-bonfire - the entire HUGO work folder
+
+https://github.com/vshabat/ds-bonfire-web - for the web content, corresponds to the 'public' subfolder of the HUGO work folder
+
+The resuling page is on https://vshabat.github.io/ds-bonfire-web/
+
+After the edits:
+
+Test:
+=====
+hugo server 
+
+Deploy web:
+===========
+cd public
+git add .
+git commit -m "myExplanation"
+git push
+
+Based on the tutorial https://www.youtube.com/watch?v=LIFvgrRxdt4 (explains simple use of submodules)
+
+Status checks:
+==============
+
+git status
+git remote
